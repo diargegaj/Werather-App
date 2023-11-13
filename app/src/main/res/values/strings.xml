@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Weather APP</string>
+    <string name="coutry_name">coutry name</string>
+    <string name="city_name">City Name</string>
+    <string name="mintemp">minTemp</string>
+    <string name="currenttemp">currentTemp</string>
+    <string name="maxtemp">maxTemp</string>
+    <string name="test">Test</string>
+    <string name="country_name_n_city_name">Country Name, \n City Name</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="overcast">Overcast</string>
+    <string name="cloud_icon">cloudIcon</string>
+    <string name="_17_c">17 C</string>
+    <string name="_4_c">4 C</string>
+    <string name="max">Max:</string>
+    <string name="min">Min:</string>
+    <string name="dd_mm">DD/MM</string>
+</resources>
